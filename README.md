@@ -22,4 +22,4 @@ Open an issue and select "Feature Request" template.
 Open an issue and select "Bug Report" template.
 
 > Known Issues:
-> If the menu was not appear in the contextual menu, try right click again. (Due to Finder Extension timeout limitation)
+> If the menu did not appear in the contextual menu, try right click again. (Due to Finder Extension timeout limitation)
